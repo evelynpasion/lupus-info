@@ -46,5 +46,4 @@ Este sitio incluye:
 Este proyecto forma parte de mi proceso de aprendizaje en desarrollo web y accesibilidad digital. Puede potenciarse aún más:
 
 - Ampliación del contenido médico con fuentes confiables
-- Mejora del diseño
-- Mejoras en aspectos visuales, como el contraste
+- Mejoras en aspectos visuales, como el contraste    
